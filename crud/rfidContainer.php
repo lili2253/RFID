@@ -1,0 +1,1 @@
+<?php $rfid_uid='2B2115E3'; echo $rfid_uid; ?>
